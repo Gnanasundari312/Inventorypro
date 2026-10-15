@@ -1,0 +1,69 @@
+﻿@model IEnumerable<ProductDetails>
+
+     <h3><a asp-controller="Product" asp-action="DeleteAll"
+                 onclick="return confirm('Are you sure you want to delete this record?')">DeleteAll</a></h3>
+
+<table border="1">
+    <tr>
+        <th>ProductId</th>
+        <th>ProductName</th>
+        <th>Category</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Supplier</th> 
+        <th>ExpiryDate</th>
+        <th>Edit</th>
+        <th>Delete</th>
+
+    </tr>
+    @foreach ( var item in Model)
+    {
+        <tr>
+            <td>@item.ProductId</td>
+            <td>@item.ProductName</td>
+            <td>@item.Category</td>
+            <td>@item.Price</td>
+            <td>@item.Quantity</td
+             <td>@item.Supplier</td>
+             <td>@item.ExpiryDate</td>
+             <td><a asp-controller="Product" asp-action="Edit" asp-route-id="@item.ProductId">Update</a></td>
+             <td><a asp-controller="Product" asp-action="Delete" asp-route-id="@item.ProductId" 
+                 onclick="return confirm('Are you sure you want to delete this record?')">Delete</a></td>
+        </tr>
+        
+    }
+</table>
+
+<br/>
+<!--pagination-->
+<div>
+    @if(ViewBag.CurrentPage>1)
+    {
+        <a asp-controller="Product" asp-action="Read" asp-route-page="@(ViewBag.CurrentdPage -1)">Previous</a>
+    }
+</div>
+
+@for (int i = 1; i <= ViewBag.TotalPages; i++)
+    {
+        <a asp-controller="Product"
+           asp-action="Read"
+           asp-route-page="@i">
+            @i
+        </a>
+    }
+
+    @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+    {
+        <a asp-controller="Product"
+           asp-action="Read"
+           asp-route-page="@(ViewBag.CurrentPage + 1)">
+            Next
+        </a>
+    }
+</div>
+
+<br />
+
+ 
+<h3><a asp-controller="Product" asp-action="Create">Go Back</a></h3>
+

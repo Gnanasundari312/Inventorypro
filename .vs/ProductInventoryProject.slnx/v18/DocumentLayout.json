@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|c:\\users\\gnanasundari\\source\\repos\\productinventoryproject\\productinventoryproject\\views\\product\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|solutionrelative:productinventoryproject\\views\\product\\read.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|c:\\users\\gnanasundari\\source\\repos\\productinventoryproject\\productinventoryproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|solutionrelative:productinventoryproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|c:\\users\\gnanasundari\\source\\repos\\productinventoryproject\\productinventoryproject\\models\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|solutionrelative:productinventoryproject\\models\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|c:\\users\\gnanasundari\\source\\repos\\productinventoryproject\\productinventoryproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|solutionrelative:productinventoryproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|c:\\users\\gnanasundari\\source\\repos\\productinventoryproject\\productinventoryproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|solutionrelative:productinventoryproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|c:\\users\\gnanasundari\\source\\repos\\productinventoryproject\\productinventoryproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|solutionrelative:productinventoryproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|c:\\users\\gnanasundari\\source\\repos\\productinventoryproject\\productinventoryproject\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|solutionrelative:productinventoryproject\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|c:\\users\\gnanasundari\\source\\repos\\productinventoryproject\\productinventoryproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|solutionrelative:productinventoryproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|c:\\users\\gnanasundari\\source\\repos\\productinventoryproject\\productinventoryproject\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|solutionrelative:productinventoryproject\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|c:\\users\\gnanasundari\\source\\repos\\productinventoryproject\\productinventoryproject\\migrations\\20260820015707_updatepriceprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|solutionrelative:productinventoryproject\\migrations\\20260820015707_updatepriceprecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|c:\\users\\gnanasundari\\source\\repos\\productinventoryproject\\productinventoryproject\\models\\data\\productsalldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|solutionrelative:productinventoryproject\\models\\data\\productsalldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|c:\\users\\gnanasundari\\source\\repos\\productinventoryproject\\productinventoryproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|solutionrelative:productinventoryproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|c:\\users\\gnanasundari\\source\\repos\\productinventoryproject\\productinventoryproject\\migrations\\20260820015324_two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB70AF4-C674-E57F-08D8-F75E65E2FC00}|ProductInventoryProject\\ProductInventoryProject.csproj|solutionrelative:productinventoryproject\\migrations\\20260820015324_two.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProductInventoryProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProductInventoryProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T05:01:29.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProductInventoryProject\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProductInventoryProject\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-20T04:31:22.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Read.cshtml",
+              "DocumentMoniker": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Views\\Product\\Read.cshtml",
+              "RelativeDocumentMoniker": "ProductInventoryProject\\Views\\Product\\Read.cshtml",
+              "ToolTip": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Views\\Product\\Read.cshtml",
+              "RelativeToolTip": "ProductInventoryProject\\Views\\Product\\Read.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-20T03:37:06.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProductInventoryProject\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProductInventoryProject\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-19T17:36:21.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductInventoryProject\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductInventoryProject\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T17:33:41.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDetails.cs",
+              "DocumentMoniker": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Models\\ProductDetails.cs",
+              "RelativeDocumentMoniker": "ProductInventoryProject\\Models\\ProductDetails.cs",
+              "ToolTip": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Models\\ProductDetails.cs",
+              "RelativeToolTip": "ProductInventoryProject\\Models\\ProductDetails.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T16:47:58.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProductInventoryProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProductInventoryProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-20T06:32:33.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProductInventoryProject\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProductInventoryProject\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-20T06:32:35.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Program.cs",
+              "RelativeDocumentMoniker": "ProductInventoryProject\\Program.cs",
+              "ToolTip": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Program.cs",
+              "RelativeToolTip": "ProductInventoryProject\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T17:22:04.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductsallDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Models\\Data\\ProductsallDbContext.cs",
+              "RelativeDocumentMoniker": "ProductInventoryProject\\Models\\Data\\ProductsallDbContext.cs",
+              "ToolTip": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Models\\Data\\ProductsallDbContext.cs",
+              "RelativeToolTip": "ProductInventoryProject\\Models\\Data\\ProductsallDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T17:14:17.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260820015707_UpdatePricePrecision.cs",
+              "DocumentMoniker": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Migrations\\20260820015707_UpdatePricePrecision.cs",
+              "RelativeDocumentMoniker": "ProductInventoryProject\\Migrations\\20260820015707_UpdatePricePrecision.cs",
+              "ToolTip": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Migrations\\20260820015707_UpdatePricePrecision.cs",
+              "RelativeToolTip": "ProductInventoryProject\\Migrations\\20260820015707_UpdatePricePrecision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:57:07.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260820015324_two.cs",
+              "DocumentMoniker": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Migrations\\20260820015324_two.cs",
+              "RelativeDocumentMoniker": "ProductInventoryProject\\Migrations\\20260820015324_two.cs",
+              "ToolTip": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\Migrations\\20260820015324_two.cs",
+              "RelativeToolTip": "ProductInventoryProject\\Migrations\\20260820015324_two.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T01:53:25.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductInventoryProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\gnanasundari\\source\\repos\\ProductInventoryProject\\ProductInventoryProject\\appsettings.json",
+              "RelativeToolTip": "ProductInventoryProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-19T17:06:37.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

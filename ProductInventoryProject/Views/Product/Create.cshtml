@@ -1,0 +1,49 @@
+﻿@model ProductDetails
+<form asp-controller="Product" asp-action="create" method="post">
+
+    <div>
+        <div>
+            <label>ProductName</label>
+            <input asp-for="ProductName" type="text" required />
+        </div>
+        <div>
+            <label>Category</label>
+            <input asp-for="Category" type="text" required/>
+        </div>
+        <div>
+            <label>Price</label>
+            <input asp-for="Price" type="number" required/>
+        </div>
+        <div>
+            <label>Quantity</label>
+                <input asp-for="Quantity" type="number" required/>
+         </div>
+        <div>
+            <label>Supplier</label>
+            <input asp-for="Supplier" type="text" required/>
+        </div>
+        <div>
+            <label>ExpiryDate</label>
+            <input asp-for="ExpiryDate" type="date" required/>
+        </div>
+        <div>
+            <input class="btn-success" type="submit"/>
+        </div>
+
+
+    </div>
+          
+</form>
+@if (ViewData["msg"] != null)
+{
+    <h3>@ViewData["msg"]</h3>
+
+    <script>
+        setTimeout(function() {
+            window.location.href = '@Url.Action("Read", "Product")';
+        }, 3000);
+    </script>
+}
+
+
+
